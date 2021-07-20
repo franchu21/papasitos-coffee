@@ -1,0 +1,222 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 40%;
+    
+}
+
+header {
+    background-color: rgb(75, 75, 75);
+    
+}
+
+
+
+.img-back {
+    
+    margin: -5%;
+}
+
+p .h3 {
+    margin: 0;
+    padding: 2em;
+    
+}
+
+.papu {
+    height: 70%;
+}
+
+.bien {
+    margin: 50px;
+    text-shadow: 0 4px 8px 0 rgb(253, 238, 94); 
+    color: rgb(255, 255, 255);
+    font-family: 'Nunito', sans-serif;
+}
+
+.cabesera-de-tienda {
+    text-align: center;
+    font-family: 'Playball', cursive;
+    
+}
+
+.AVISOS {
+    font-family: 'Roboto Mono', monospace;
+    margin: 150px;
+    
+    display: block;
+    
+    box-shadow: 10px 10px;
+}
+
+
+
+.nav-2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    height: 280px;
+}
+
+
+.card1 {
+    display: flex;
+    justify-content: space-evenly;
+    
+    font-family: 'Roboto Mono', monospace;
+    width: 100%;  
+}
+
+.card {
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgb(253, 238, 94); 
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    font-family: 'Roboto Mono', monospace;
+    
+    margin: 10%;   
+}
+
+.item-papa {
+
+    margin: 10%;
+    font-family: 'Roboto Mono', monospace;
+    box-shadow: 10px 10px;
+    overflow: hidden;
+}
+
+#informacion2  {
+    margin: 10%;
+    padding: 1em;
+    float: left;
+   
+}
+
+.bg-primary {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+
+    justify-content: right;
+}
+
+
+.contenedor {
+   margin: 0;
+    color: rgb(255, 255, 255);
+  background-color: rgb(48, 48, 48);
+    float: left;
+    box-sizing: border-box;
+}
+
+
+
+.card-title1 {
+    font-family: 'Fredoka One', cursive;
+}
+  
+
+  
+#peru {
+ 
+    height: 400px;
+}
+
+#chile {
+    
+    height: 400px;
+    font-family: 'Fredoka One', cursive;
+}
+
+#india {
+    width: 200px;
+    height: 400px;
+}
+
+.h1 {
+    position: relative;
+    top: 100px;
+    background: rgb(255, 156, 125);
+    margin: 170px;
+    border: rgb(11, 100, 51);
+    font-style: italic;
+    font-weight: 400px;
+    font-family: 'Nunito', sans-serif;
+    
+  
+    
+}
+
+.h2 {
+    position: relative;
+    top: -400px;
+    background: rgba(157, 94, 0, 0.522);
+    margin: 170px;
+    font-family: 'Nunito', sans-serif;
+    
+}
+ 
+
+
+#button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#button2 {
+    background-color: #d10000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.orden {
+    position: relative;
+    top: auto;
+    width: 20%;
+}
+
+.contenetor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-top: 40px;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Nunito', sans-serif;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+
